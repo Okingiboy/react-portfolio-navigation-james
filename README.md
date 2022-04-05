@@ -105,6 +105,9 @@ We highly recommend to read through the [Deploying on Github Pages](https://crea
 
 #### Deploying to Netlify
 
+[![Netlify Deploy](https://app.netlify.com/sites/reactpotfoliojames)
+
+
 [![Deploy To Netlify](https://reactpotfoliojames.netlify.app/)
 
 
