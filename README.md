@@ -105,6 +105,8 @@ We highly recommend to read through the [Deploying on Github Pages](https://crea
 
 #### Deploying to Netlify
 
+[![Deploy To Netlify](https://reactpotfoliojames.netlify.app/)
+
 You could also host directly with Netlify by linking your own repository.
 
 [![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Okingiboy/react-portfolio-navigation-james
