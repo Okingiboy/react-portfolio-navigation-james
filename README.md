@@ -109,7 +109,10 @@ You could also host directly with Netlify by linking your own repository.
 
 [![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Okingiboy/react-portfolio-navigation-james
 
-[![Deploy To Netlify](https://thriving-belekoy-d684ce.netlify.app/)
+
+[![Deploy To Netlify](https://main--thriving-belekoy-d684ce.netlify.app/)
+
+
 
 
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
