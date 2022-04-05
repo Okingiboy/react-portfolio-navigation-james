@@ -1,11 +1,11 @@
-# Web Developer React Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/kaustubhai/portfolio-template?color=blue)](https://github.com/kaustubhai/portfolio-template/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/kaustubhai/portfolio-template)](https://github.com/kaustubhai/portfolio-template/stargazers)
+# react-portfolio-navigation-james ⚡️ [![GitHub](https://img.shields.io/github/license/okingiboy/portfolio-template?color=blue)](https://github.com/Okingiboy/react-portfolio-navigation-james/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/okingiboy/)](https://github.com/Okingiboy/react-portfolio-navigation-james/stargazers)
 
 ## A clean, beautiful and responsive react portfolio template for Developers!
 
 
 <p align="center">
   <kbd>
-<img src="https://github.com/kaustubhai/portfolio-template/blob/master/public/portfolio-example.gif?raw=true"></img>
+<img src="https://github.com/okingiboy/react-portfolio-navigation-james/blob/main/public/portfolio-example.gif?raw=true"></img>
   </kbd>
 </p>
 
@@ -15,10 +15,10 @@ Just change `src/profile.js` to get your personal portfolio. Feel free to use it
 To Update the image go to `src/styles/images.css`  
 To change colors, go to `src/styles/style.css`
 
-But if you want to **contribute** and make this much better for other developer raise a [Issue](https://github.com/kaustubhai/portfolio-template/issues).
+But if you want to **contribute** and make this much better for other developer raise a [Issue](https://github.com/Okingiboy/react-portfolio-navigation-james/issues).
 
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/kaustubhai/portfolio-template/pulls).
+If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/Okingiboy/react-portfolio-navigation-james/pulls).
 
 ## Table of Contents
 - [Sections](#sections)
@@ -36,7 +36,7 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Contact Form\
 ✔️ Social Profile\
 
-To view a live example, **[click here](https://kaustubhai.netlify.app/)**.
+To view a live example, **[click here](https://okingiboy.netlify.app/)**.
 
 
 ## Getting Started
@@ -58,10 +58,11 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/kaustubhai/portfolio-template.git
+$ git clone https://github.com/Okingiboy/react-portfolio-navigation-james.git
 
 # Go into the repository
-$ cd portfolio-template
+$ cd react-portfolio-navigation-james
+
 
 # Install dependencies
 $ npm install
@@ -104,13 +105,13 @@ We highly recommend to read through the [Deploying on Github Pages](https://crea
 
 You could also host directly with Netlify by linking your own repository.
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kaustubhai/portfolio-template)
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Okingiboy/react-portfolio-navigation-james
 
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
 
 
 ## For the Future
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/kaustubhai/portfolio-template/pulls).
+If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/okingiboy/react-portfolio-navigation-james/pulls).
 
 - Connect with Github API to get Pinned Projects directly
 
